@@ -8,8 +8,3 @@ Un cluster de trois contenaires est créé, avec comme plateformes installées:
   * [Apache Spark](https://spark.apache.org/) Version: 2.2.1
   * [Apache Kafka](https://kafka.apache.org/) Version 2.11-1.0.2 
   * [Apache HBase](https://hbase.apache.org/) Version 1.4.8
-
-Pour des tutoriaux détaillés sur la façon d'utiliser ces contenaires, visiter:
-https://insatunisia.github.io/TP-BigData
-
-Bonne lecture!
